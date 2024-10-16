@@ -169,9 +169,8 @@
     height: 32px;
     transition: fill 3s ease; /* Smooth transition effect */
   }
-  
-  /* Change SVG color on hover */
-  .footersvg:hover path {
+
+  .footersvg: hover path {
     fill: #011ECB; /* Change to the desired hover color */
   }
 
