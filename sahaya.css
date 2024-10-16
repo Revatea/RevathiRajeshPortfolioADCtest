@@ -164,7 +164,16 @@
   
   }
   
+    .footersvg {
+    width: 32px;
+    height: 32px;
+    transition: fill 3s ease; 
+  }
   
+
+  .footersvg: hover path {
+    fill: #011ECB; 
+  }
 
   
   .logo{
